@@ -29,3 +29,8 @@ a:hover{
     color: var(--cor-destaque);
 }
 
+.card-img-top{
+    width: 200px;
+    height: 500px;
+}
+
